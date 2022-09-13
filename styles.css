@@ -236,6 +236,11 @@ header {
   border-color: #6a95aa;
 }
 
+.category-box:hover {
+  color: #094F71;
+  border-color: #094F71;
+}
+
 .other-box {
   width: 395px;
   height: 51px;
