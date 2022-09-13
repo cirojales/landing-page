@@ -141,7 +141,7 @@ header {
   right: 0;
 }
 
-/* Início da primeira seção pós-header */
+/* Início da primeira section pós-header */
 
 .start-course {
   background-color: var(--azul);
@@ -186,7 +186,7 @@ header {
   top: 142px;
 }
 
-/* Início da segunda seção pós-header */
+/* Início da segunda section pós-header */
 
 .industry {
   background-color: var(--branco);
@@ -248,10 +248,10 @@ header {
 .other-box {
   width: 395px;
   height: 51px;
-  margin: auto;
+  margin: auto;Revi
 }
 
-/* Início da terceira seção pós-header */
+/* Início da terceira section pós-header */
 
 .questions {
   height: 525px;
