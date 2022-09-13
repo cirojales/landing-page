@@ -60,6 +60,10 @@ a {
   margin-right: 33px;
 }
 
+.nav-link:hover {
+  background:rgba(232,124,37,1);
+}
+
 header {
   height: 613px;
   background-image: url(assets/image2-bg.png);
@@ -333,4 +337,4 @@ footer {
 .footer-text {
   position: absolute;
   bottom: 35px;
-}git 
+}
