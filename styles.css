@@ -61,7 +61,7 @@ a {
 }
 
 .nav-link:hover {
-  background:rgba(232,124,37,1);
+  background: rgba(232, 124, 37, 1);
 }
 
 header {
@@ -241,8 +241,8 @@ header {
 }
 
 .category-box:hover {
-  color: #094F71;
-  border-color: #094F71;
+  color: #094f71;
+  border-color: #094f71;
 }
 
 .other-box {
